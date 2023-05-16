@@ -1,0 +1,109 @@
+.cal{
+    height:320px;
+    width: 45%;
+    background-color: black;
+    border: 5px;
+    margin: 20px;
+    display: inline-block;
+    border-color: azure;
+    overflow: hidden;
+
+}
+.heading{
+    font-size: 16px;
+    padding-top: 150px;
+    text-align: center;
+    color: aliceblue;
+     
+} 
+thead{
+    color:aliceblue;
+    font-size: 16px;
+    /* padding-right: 10px; */
+    text-indent: 21px;
+
+    
+    
+}
+tbody{
+    color:antiquewhite;
+    font-size: 16px;
+    text-indent: 21px;
+    
+}
+.holiday{
+    color:red;
+}
+td:hover{
+    background-color: brown;
+    color: azure;
+}
+/* h1:hover{
+    background-color: brown;
+    color: blue;
+} */
+.container{
+    /* background-color: aqua; */
+    /* height: 150px;
+    width: 100%; */
+    background-image: url(./Image/flowers-276014_1280.jpg);
+    background-size: 400px 400px;
+    overflow-x: hidden;
+    background-repeat: no-repeat;
+    color: azure;
+    font-size: 16px;
+    font-family: 'Segoe UI';
+}
+
+
+
+.cal{
+    height:400px;
+    width: 35%;
+    background-color: black;
+    border: 5px;
+    border-color: azure;
+
+}
+.heading{
+    font-size: 16px;
+    padding-top: 150px;
+    text-align: center;
+    color: aliceblue;
+     
+} 
+thead{
+    color:aliceblue;
+    font-size: 16px;
+    /* padding-right: 10px; */
+    text-indent: 21px;
+
+    
+    
+}
+tbody{
+    color:aqua;
+    font-size: 16px;
+    text-indent: 21px;
+    
+}
+.holiday{
+    color:red;
+}
+td:hover{
+    background-color: brown;
+    color:black;
+}
+/* h1:hover{
+    background-color: brown;
+    color: blue;
+} */
+.container{
+    background-image: url(./Image/download.jpg);
+    background-size: 500PX 500px;
+    background-repeat: no-repeat;
+    color:black;
+    font-size: 16px;
+    font-family: 'Segoe UI';
+}
+
